@@ -229,6 +229,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
+[CSS.com]: https://github.com/Mathieu-Despres/courses-challenge-module-1/images/CSS-Cascading Style Sheets-blue.svg alt="CSS Badge">
+[CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
