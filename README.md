@@ -93,14 +93,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![HTML][HTML.com]][HTML-url]
 * [![CSS][Css.com]][Css-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Mathieu-Despres/courses-challenge-module-1.git
    ```
 3. Install NPM packages
    ```sh
@@ -222,16 +215,14 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [forks-shield]: https://github.com/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
 [forks-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/network/members
 [stars-shield]: https://github.com/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
-[stars-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[stars-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/stargazers/
+[issues-shield]: https://github.com/Mathieu-Despres/courses-challenge-module-1/issues/
+[issues-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/issues/
 [license-shield]: https://github.com/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
 [license-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[CSS.com]: https://github.com/Mathieu-Despres/courses-challenge-module-1/images/CSS-Cascading Style Sheets-blue.svg alt="CSS Badge">
-[CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpeg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -248,3 +239,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[CSS.com]: https://raw.githubusercontent.com/Mathieu-Despres/courses-challenge-module-1/fb01f6d47c8a56871d880d512e10b5e5ae676ca5/images/CSS-Cascading%20Style%20Sheets-blue.svg
+[CSS-url]: https://www.w3schools.com/css/default.asp
+[HTML.com]: https://raw.githubusercontent.com/Mathieu-Despres/courses-challenge-module-1/fb01f6d47c8a56871d880d512e10b5e5ae676ca5/images/HTML-HyperText%20Markup%20Language-orange.svg
+[HTML-url]: https://www.w3schools.com/html/default.asp
