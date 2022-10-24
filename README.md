@@ -22,7 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Followers][followers-shield]][followers-url]
 
 <!-- PROJECT LOGO -->
 
@@ -192,18 +192,18 @@ Project Link: [https://github.com/Mathieu-Despres/courses-challenge-module-1](ht
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[contributors-shield]: https://img.shields.io/github/contributors/Mathieu-Despres/courses-challenge-module-1?color=Green&style=for-the-badge
+[contributors-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Mathieu-Despres/courses-challenge-module-1?style=for-the-badge
+[forks-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/network/members
+[stars-shield]: https://img.shields.io/github/stars/Mathieu-Despres/courses-challenge-module-1?color=Green&style=for-the-badge
+[stars-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
+[issues-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/issues
+[license-shield]: https://img.shields.io/github/license/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
+[license-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/LICENSE
+[followers-shield]: https://img.shields.io/github/followers/Mathieu-Despres?style=for-the-badge
+[followers-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.jpeg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
