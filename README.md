@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor">
-    <img src="/assets/images/logo.svg" alt="Logo" width="128" height="128">
+    <img src="./assets/images/logo.svg" alt="Logo" width="128" height="128">
   </a>
 
 <h3 align="center">Online Marketing and Advertising</h3>
@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor/">
-    <img src="/assets/images/screenshot.jpeg" alt="Logo" width="50%">
+    <img src="./assets/images/screenshot.jpeg" alt="Logo" width="50%">
   </a>
   </div><br>
 
@@ -204,7 +204,7 @@ Project Link: [https://github.com/Mathieu-Despres/courses-challenge-module-1](ht
 [license-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/LICENSE
 [followers-shield]: https://img.shields.io/github/followers/Mathieu-Despres?style=for-the-badge
 [followers-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: /assets/images/screenshot.jpeg
+[product-screenshot]: ./assets/images/screenshot.jpeg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
