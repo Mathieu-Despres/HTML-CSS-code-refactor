@@ -40,7 +40,7 @@
     <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1">View Demo</a>
+    <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor/">View Demo</a>
     ·
     <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1/issues">Report Bug</a>
     ·
