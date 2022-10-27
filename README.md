@@ -37,14 +37,14 @@
   <p align="center">
     This projectsd was created for students who are currently doing the Coding Boot Camp offered by UNB. It contains the assignment found in Module 1 Challenge.
     <br></br>
-    <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1">View Demo</a>
+    <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor/">View Demo</a>
     ·
-    <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1/issues">Report Bug</a>
+    <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Mathieu-Despres/courses-challenge-module-1/issues">Request Feature</a>
+    <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues">Request Feature</a>
   </p>
 </div>
 
