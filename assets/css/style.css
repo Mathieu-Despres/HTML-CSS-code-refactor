@@ -24,7 +24,9 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+/* Changed the div tag to the nav tag */
+
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,22 +34,14 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
-/* Added this custom class to match with the consolidated "benefits" class in HTML */
-
-h3.my-custom-class {
-    font-size: 20px;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    }
 
 a {
     color: #ffffff;
@@ -58,7 +52,9 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* Changed the hero class to digmarkmeet. */
+
+.digmarkmeet {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
