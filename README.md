@@ -17,12 +17,16 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Followers][followers-shield]][followers-url]
+
+</div>
 
 <!-- PROJECT LOGO -->
 
@@ -142,7 +146,7 @@ Follow these steps to complete the challenge:
 
 <p style="border-width:1px; border-style:solid; border-color:#FFFFFF; padding: 1em;"><b>IMPORTANT</b><br>Make sure to clone the starter code repository and make your own repository with the starter code. Do not fork the starter code repository!</p><br>
 
-Also, see the [open issues](https://github.com/Mathieu-Despres/courses-challenge-module-1/issues) for a full list of proposed features (and known issues).
+Also, see the [open issues](https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +177,7 @@ Distributed under the MIT License. See "LICENSE.txt" for more information.
 
 ## Acknowledgments
 
-[&#10004;]&nbsp;The [Best-README-Template](https://github.com/othneildrew/Best-README-Template) used as a starter template for this [README file](https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/README.md)<br>
+[&#10004;]&nbsp;The [Best-README-Template](https://github.com/othneildrew/Best-README-Template) used as a starter template for this [README file](https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/blob/main/README.md)<br>
 [&#10004;]&nbsp;The [repository](https://github.com/coding-boot-camp/urban-octo-telegram) used as the starter code for this challenge<br>
 [&#10004;]&nbsp;The [W3Schools](https://www.w3schools.com/) for their freemium educational website for application-related implementation options and examples, along with helpful references<br>
 
@@ -185,23 +189,23 @@ Distributed under the MIT License. See "LICENSE.txt" for more information.
 
 Mathieu Despres: [@GitHub](https://github.com/Mathieu-Despres) - mathieudespres@outlook.com
 
-Project Link: [https://github.com/Mathieu-Despres/courses-challenge-module-1](https://github.com/Mathieu-Despres/courses-challenge-module-1)
+Project Link: [https://github.com/Mathieu-Despres/HTML-CSS-code-refactor](https://github.com/Mathieu-Despres/HTML-CSS-code-refactor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Mathieu-Despres/courses-challenge-module-1?color=Green&style=for-the-badge
-[contributors-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Mathieu-Despres/courses-challenge-module-1?style=for-the-badge
-[forks-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mathieu-Despres/courses-challenge-module-1?color=Green&style=for-the-badge
-[stars-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
-[issues-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/issues
-[license-shield]: https://img.shields.io/github/license/Mathieu-Despres/courses-challenge-module-1.svg?style=for-the-badge
-[license-url]: https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Mathieu-Despres/HTML-CSS-code-refactor?color=Green&style=for-the-badge
+[contributors-url]: https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Mathieu-Despres/HTML-CSS-code-refactor?style=for-the-badge
+[forks-url]: https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/network/members
+[stars-shield]: https://img.shields.io/github/stars/Mathieu-Despres/HTML-CSS-code-refactor?color=Green&style=for-the-badge
+[stars-url]: https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Mathieu-Despres/HTML-CSS-code-refactor.svg?style=for-the-badge
+[issues-url]: https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues
+[license-shield]: https://img.shields.io/github/license/Mathieu-Despres/HTML-CSS-code-refactor.svg?style=for-the-badge
+[license-url]: https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/blob/main/LICENSE
 [followers-shield]: https://img.shields.io/github/followers/Mathieu-Despres?style=for-the-badge
 [followers-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: ./assets/images/screenshot.jpeg
@@ -221,7 +225,7 @@ Project Link: [https://github.com/Mathieu-Despres/courses-challenge-module-1](ht
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[CSS.com]: https://raw.githubusercontent.com/Mathieu-Despres/courses-challenge-module-1/fb01f6d47c8a56871d880d512e10b5e5ae676ca5/images/CSS-Cascading%20Style%20Sheets-blue.svg
+[CSS.com]: https://raw.githubusercontent.com/Mathieu-Despres/HTML-CSS-code-refactor/fb01f6d47c8a56871d880d512e10b5e5ae676ca5/images/CSS-Cascading%20Style%20Sheets-blue.svg
 [CSS-url]: https://www.w3schools.com/css/default.asp
-[HTML.com]: https://raw.githubusercontent.com/Mathieu-Despres/courses-challenge-module-1/fb01f6d47c8a56871d880d512e10b5e5ae676ca5/images/HTML-HyperText%20Markup%20Language-orange.svg
+[HTML.com]: https://raw.githubusercontent.com/Mathieu-Despres/HTML-CSS-code-refactor/fb01f6d47c8a56871d880d512e10b5e5ae676ca5/images/HTML-HyperText%20Markup%20Language-orange.svg
 [HTML-url]: https://www.w3schools.com/html/default.asp
