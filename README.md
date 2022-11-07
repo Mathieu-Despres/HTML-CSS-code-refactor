@@ -134,7 +134,7 @@ This is only a repository for students studying the Coding Boot Camp provided by
 
 Follow these steps to complete the challenge:
 
-1. Clone your starter codeLinks to an external site..
+1. Clone your starter code.
 
 2. Refactor the code to meet the Acceptance Criteria.
 
